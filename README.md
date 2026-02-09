@@ -123,7 +123,7 @@ playwright install
 ---
 
 ### 7️⃣ Author
-**Chikwendu Emmanuel Onyedika (Peter)**  
+**Peter**  
 - GitHub: [Ezee-Kits](https://github.com/Ezee-Kits)  
 - YouTube Channel: [Ezee Kits](https://www.youtube.com/@Ezee_Kits)
 
